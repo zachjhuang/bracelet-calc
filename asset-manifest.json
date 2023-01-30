@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bracelet-calc/static/css/main.073c9b0a.css",
+    "main.js": "/bracelet-calc/static/js/main.b3a27044.js",
+    "static/js/787.d40858d6.chunk.js": "/bracelet-calc/static/js/787.d40858d6.chunk.js",
+    "static/media/logo.svg": "/bracelet-calc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bracelet-calc/index.html",
+    "main.073c9b0a.css.map": "/bracelet-calc/static/css/main.073c9b0a.css.map",
+    "main.b3a27044.js.map": "/bracelet-calc/static/js/main.b3a27044.js.map",
+    "787.d40858d6.chunk.js.map": "/bracelet-calc/static/js/787.d40858d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b3a27044.js"
+  ]
+}
