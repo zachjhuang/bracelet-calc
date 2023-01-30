@@ -8,7 +8,7 @@ function App() {
           This is a bracelet calculator for Lost Ark (or at least it will be)
         </p>
         <p>
-          Pausechamp
+          LF react andies
         </p>
       </header>
     </div>
