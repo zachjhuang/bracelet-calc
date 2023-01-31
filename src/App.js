@@ -8,7 +8,7 @@ function App() {
           This is a bracelet calculator for Lost Ark (or at least it will be)
         </p>
         <p>
-          LF react andies
+          LF any React andies
         </p>
       </header>
     </div>
